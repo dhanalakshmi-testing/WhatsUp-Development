@@ -1,0 +1,28 @@
+﻿Trailhead Login
+website : trailhead.salesforce.com
+username : dhanasf81@resilient-goat-w3v1is.com
+password : c...1
+
+Salesforce Login
+website :
+Username  : dhanasf81@gmail.com
+password  : c...1
+
+youtube to get skill salesforce
+
+aj skill development
+salesforce cerification registration & preparation guidence
+
+prepare for your salesforce adminstrator credantials
+
+Google - ashok raj trailmix
+Must Know topics in Salesforce for beginners (type this in trailhead search)
+salesforce tamil
+
+
+AND(
+NOT(ISBLANK(AccountId)),
+MailingPostalCode <> Account.ShippingPostalCode)
+
+
+Git understanding -Branch
